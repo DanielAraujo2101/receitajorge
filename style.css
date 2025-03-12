@@ -91,3 +91,43 @@ h5{
     border-radius: 300px;
     
 }
+
+.titular img{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 37%;
+}
+
+.titular h1{
+    background: rgb(73, 31, 15);
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: 275%;
+    border-radius: 222px;
+}
+
+.titular p{
+    text-align: center;
+}
+
+.mododepreparo2 h3{
+    font-size: 360%;
+    color: beige;
+
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:rgb(73, 31, 15)
+
+}
+
+.mododepreparo2 ol{
+    font-size: 180%;
+    font-style:italic;
+
+}
+
+.mododepreparo2 p{
+    font-size: 180%;
+    font-style:italic;
+}
