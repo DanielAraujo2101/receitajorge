@@ -1,0 +1,93 @@
+.titulo h1{
+    background: rgb(73, 31, 15);
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: 275%;
+    border-radius: 222px;
+    
+}
+
+.titulo p{
+    text-align: center;
+}
+
+.titulo img{
+    height: 300px;
+    width: 500px;
+    margin-left: 35%;
+    border-radius: 10px;
+}
+
+
+.receita h2{
+    color: beige;
+    font-size: 360%;
+    
+
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:rgb(73, 31, 15)
+
+}
+
+.receita ul{
+  
+    font-size: 180%;
+    font-style:italic;
+
+}
+
+.mododepreparo h3{
+    font-size: 360%;
+    color: beige;
+
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:rgb(73, 31, 15)
+
+
+}
+
+.mododepreparo ol{
+
+    font-size: 180%;
+    font-style:italic;
+
+}
+
+.info h4{
+    font-size: 280%;
+    color: black;
+
+}
+
+.info img{
+    border-radius: 10px;
+    width: 100px;
+    height: 60px;
+
+}
+
+.info p{
+    font-size: 150%;
+    font-style: italic;
+    color: rgb(73, 31, 15);
+
+}
+body{
+    background-color: rgb(218, 197, 185);
+
+}
+h5{
+    font-size: 360%;
+    color: beige;
+
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:rgb(73, 31, 15);
+
+}
+
+.prox img{
+    width: 25%;
+    border-radius: 300px;
+    
+}
