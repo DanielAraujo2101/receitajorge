@@ -131,3 +131,19 @@ h5{
     font-size: 180%;
     font-style:italic;
 }
+
+.titulari h1{
+    background: rgb(73, 31, 15);
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: 275%;
+    border-radius: 222px;
+}
+
+.titulari img{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 37%;
+}
